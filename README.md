@@ -7,4 +7,4 @@ perubahan pada file `data.txt`.
 
 ## Anggota Kelompok
 - Muhammad Ihya Abdillah (2404115)
-- Nama Anggota 2
+- Muhammad Raffi Akhdan (2405645)
